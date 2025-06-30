@@ -10,7 +10,7 @@ Campus Placement Predictor is a machine learning-based web application that pred
 - 🌐 Built with Flask for rapid API + frontend integration 
 - 📂 CSV dataset integrated for demo and retraining
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack 
 
 - **Python**
 - **Flask**
