@@ -5,7 +5,7 @@ Campus Placement Predictor is a machine learning-based web application that pred
  
 ## 🚀 Features      
      
-- 🎯 Predicts placement chances based on input attributes 
+- 🎯 Predicts placement chances based on input attributes  
 - 📊 Uses a trained scikit-learn classification model 
 - 🌐 Built with Flask for rapid API + frontend integration 
 - 📂 CSV dataset integrated for demo and retraining
